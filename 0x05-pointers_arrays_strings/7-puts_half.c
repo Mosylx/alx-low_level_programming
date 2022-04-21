@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * puts_half - print half string
+ * puts_half - printhalf string
  * @str: string
  *
  * Return: Null
